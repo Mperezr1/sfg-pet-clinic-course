@@ -41,6 +41,6 @@
 	</build>
 	<scm>
 		<developerConnection>scm:git:git@github.com:mperezr1/sfg-pet-clinic-course.git</developerConnection>
-	  <tag>petclinicCourse-0.0.1</tag>
+	  	<tag>petclinicCourse-0.0.1</tag>
   </scm>
 </project>
