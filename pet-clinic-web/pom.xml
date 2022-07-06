@@ -3,7 +3,7 @@
     <parent>
         <artifactId>petclinicCourse</artifactId>
         <groupId>com.petclinic</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.1</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -16,7 +16,7 @@
         <dependency>
             <groupId>com.petclinic</groupId>
             <artifactId>pet-clinic-initialdata</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
